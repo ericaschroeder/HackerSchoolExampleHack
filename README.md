@@ -3,13 +3,13 @@ HackerSchoolExampleHack
 
 ExampleHack
 
-These programs can be compiled by typing the following into the command line:
+These programs can be compiled by typing the following into the command line: <br>
 
-g++ fizzbuzz.cpp -o fizzbuzz
-g++ example.cpp -o numbergame
+g++ fizzbuzz.cpp -o fizzbuzz <br>
+g++ example.cpp -o numbergame <br>
 
-And to run it, type into the command line
+And to run it, type into the command line <br>
 
-./fizzbuzz
-./numbergame
+./fizzbuzz <br>
+./numbergame <br>
 
